@@ -1,0 +1,12 @@
+body{
+	background-color: blue;
+}
+
+.card{
+	position: absolute;
+	top: 10%;
+	transform: translateY(0%);
+	left: 50%;
+	transform: translateX(-50%);
+}
+
